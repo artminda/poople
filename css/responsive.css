@@ -1,0 +1,75 @@
+/* lg */ 
+@media (min-width: 1200px) {
+    /* Make Navigation Toggle on Desktop Hover */
+
+}
+
+/* md */
+@media (min-width: 1024px) and (max-width: 1399px) {
+
+}
+
+
+/* md */
+@media (min-width: 992px) and (max-width: 1199px) {
+
+  
+}
+
+/* sm */
+@media (min-width: 768px) and (max-width: 1024px) {
+    #footer {
+        margin-top: 44vh;
+    }
+
+    #services {
+        margin-top: 407px;
+    }
+
+}
+
+@media (min-width: 768px) and (max-width: 1000px) {
+
+}
+
+/* 電腦 */
+@media (min-width: 768px) {
+
+}
+
+/* xs */
+@media (max-width: 767px) {
+
+
+}
+
+
+/* XS Portrait */
+@media (max-width: 480px) {
+    #services .search-p {
+        width: 279px;
+    }
+
+    #services {
+        height:30vh;
+    }
+
+
+    #footer {
+        margin-top: 24vh;
+    }
+
+
+    #services .logo-style {
+        height: 58px;
+        width: 177px;
+    }
+
+    .fixed-bottom {
+        position: relative;
+        bottom: -91px;
+    }
+
+}
+
+

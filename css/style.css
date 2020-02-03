@@ -1,0 +1,92 @@
+/*
+Theme Name: Bootstrap Theme
+Author: WebThemez.com
+License: https://webthemez.com/license
+*/
+/*--------------------------------------------------------------
+# General
+--------------------------------------------------------------*/
+body {
+  background: #fff;
+  color: #c393cb;
+  font-family: "Microsoft JhengHei", sans-serif;
+  height: 100%;
+
+}
+
+a {
+  color: #E91E63;
+  transition: 0.5s;
+}
+
+a:hover, a:active, a:focus {
+  color: #51d8af;
+  outline: none;
+  text-decoration: none;
+}
+
+p {
+  padding: 0;
+  margin: 0 0 30px 0;
+}
+
+h1, h2, h3, h4, h5, h6, a {
+  font-family: "Microsoft JhengHei", sans-serif;
+  font-weight: 400;
+  margin: 0 ;
+  padding: 0;
+}
+
+.btn-light {
+  height: 36px;
+  line-height: 27px;
+  background-color: #f2f2f2;
+  border-radius: 2px;
+  color: #757575;
+  cursor: default;
+  font-family: arial,sans-serif;
+  font-size: 13px;
+  font-weight: bold;
+  margin: 11px 4px;
+  min-width: 54px;
+  padding: 0 16px;
+  text-align: center;
+}
+
+
+#services {
+
+  margin-top:198px
+}
+
+#services .logo-style {
+  height: 92px;
+  width: 272px;
+}
+
+#services .search-p {
+  width: 584px;
+  height: 44px;
+  display: flex;
+  border-radius: 2px;
+  border: none;
+  box-shadow: 0 2px 2px 0 rgba(0,0,0,0.16), 0 0 0 1px rgba(0,0,0,0.08);
+  z-index: 3;
+  margin: 0 auto;
+}
+
+#footer .poople-nav {
+  background: #f2f2f2;
+  border-top: 1px solid #e4e4e4;
+  min-width: 100%;
+}
+
+#footer .little-t {
+  color: rgba(0,0,0,.54);
+  padding: 9px;
+  font-size: small;
+}
+
+#footer .nav-b-s {
+  border-bottom: 1px solid #e4e4e4;
+}
